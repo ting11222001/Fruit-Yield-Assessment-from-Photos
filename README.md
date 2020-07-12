@@ -1,4 +1,4 @@
-# Fruit-Yield-Assessment-from-Photos-using-Python-and-Scikit-Learn
+# Fruit Yield Assessment from Photos using Python and Scikit Learn
 This is the complete source code of my article on Medium: <br>
 https://medium.com/li-ting-liao-tiffany/fruit-yield-assessment-from-photos-using-python-and-scikit-learn-2a5f58c4a097
 
