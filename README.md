@@ -9,4 +9,4 @@ I always have an idea about how to help farmers have more efficiency in counting
 I'm using Python3 and Scikit-Learn (skimage.feature) to train the image recognition model, make it recognize the rest of unclicked mangoes on a picture. These codes were run in anaconda.
 
 ## Notes for files
-* matching_ripen_mangoes_all.py: main code which was used in anaconda environment
+* matching_ripen_mangoes_all.py: main codes which were used in anaconda environment
